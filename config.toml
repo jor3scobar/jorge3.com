@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "solopatic"
+baseurl = "http://example.org/"
+theme = "solo"
