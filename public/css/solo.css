@@ -1,0 +1,42 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-custom {
+  background: #4E4D92;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#nav-main-items > li > a {
+  color: #ddd;
+}
+
+#nav-main-items > li > a:hover {
+  color: #fff;
+}
+
+#nav-logo {
+  color: #eee;
+  font-size: 1.4em;
+}
+
+.nav-body {
+  padding-top: 50px;
+}
+
+header {
+  background: #AAB4D2;
+  padding: 25px 0 25px 0;
+}
+
+h1, h2 {
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#experience {
+    background: #EBE3DB;
+}
+
+# colorpalette
+# http://www.colourlovers.com/palette/4429480/Faded_Blueberries
