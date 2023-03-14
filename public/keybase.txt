@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/esfoobar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jorge3.com
+  * I am esfoobar (https://keybase.io/esfoobar) on keybase.
+  * I have a public key with fingerprint 7215 23AC 8061 475D 37EC  5B40 8849 F741 76C1 F1C2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016c00040e0ee2f83493feb07cda5a56655089174ab7d497eb1bc924389122b9e00a",
+      "fingerprint": "721523ac8061475d37ec5b408849f74176c1f1c2",
+      "host": "keybase.io",
+      "key_id": "8849f74176c1f1c2",
+      "kid": "01016c00040e0ee2f83493feb07cda5a56655089174ab7d497eb1bc924389122b9e00a",
+      "uid": "b8c2c2d05c928f6530d8044e7f7fbc19",
+      "username": "esfoobar"
+    },
+    "service": {
+      "hostname": "jorge3.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1678820128,
+  "expire_in": 157680000,
+  "prev": "d924b29abd0fb9e23f374ec1d8935bcf4651fcfdf6cc6a8ae371360b9772eec0",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSBRRHMZXW4sEwaw0pdAmCx/EzpnbmdkuWklF0mUfegisdc6ZM7vj
+ZWedGS+1WlYQBj30IGkPglFREQQhsRVZlpIPBZVWEFR0E61ARbpIoHZG6q3Hng7n
+4/d95//9Of1p83ypSVNtuZGMrRVVSY/un6nz6el9eXEOW/pBLhDnqujcQat16rih
+KlPnAhyAAMoEACACCijlDUUQVcGgGCCia5ImybIkAUWFSNQw0kUVUQwxUXlRYCLP
+Y5UCoHGFnGFGw9SO2WbUZbGIhxIvaEQBMhSRpAuIEgmLQFFE1UAiRDKBBiQ8M0Ys
+x3Ow4bDm0CLTYhq7hObG+wf/n+eum4vDCuEJrwOJEYohSwLQFSCKFBnIwASqHuhQ
+O6rVUEZTx7AsrNlccyHH1HqTUG+xXpM/RKVlh6lQRKwa5ozZlmsRq5rpEdeNOQHP
+5x6MeWADxaE/ESFsRnW2Reaop7ZjWlEuABlJXNPLhDJSFB5AXinkaGPMtGnI9AgJ
+yQrbA/DeofUsUmclMa9qWAcGq8kLhoBESqCuqIKEiSHKEjSIoRsyIbKmaFRAUJAB
+VhHiKSWA80rVRi2WzUJdLcwyHTMc1dw6m3LND3rL/b6kVN/8lGTve/lSF6b//XRZ
+Ewtmg5kPKyfdHvymuHxn//MuXHvv5eCy2PNnKZvyd3+cHfGvCU5W3M2FOVfx0y8/
+S0ceHFjetNoFacH07rb3rXWdC5I+DGSvK3U6wLX8F33rct6Wz1D/jSOtbmN8yTlu
+V8K/6MRQ98ip7cPTx76+LsmZmDrRwt3eE16aePIqS05rnR/pGOvZHDhPpG2ZItjb
+O5Dxq/NSorrr6oaWh6uaNxcMlx1qr73TX4azdx3uLz16pbg0+VbJ6faCHZcXa1UX
+pKz9FyE6/vjkdP7ZnGBk34q83u/hhvj0u7XfRteOT49/OvC59sj6xrKyyqbByZsD
+hXQoNJp7eMt1/8axoPBpJp74kbfyN8b1OvY=
+=uH0n
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/esfoobar
+
+==================================================================
